@@ -1,0 +1,37 @@
+body{
+	width:75%;
+	margin:0px auto;
+	border:#FFCCCC 50px solid;
+	padding:8px;
+	word-wrap:break-word;
+	background:url("back11.jpg") repeat fixed!important;	
+}
+textarea{width:100%;height:80px;}
+input{font-size:30px;}
+select{font-size:18px;}
+body{
+	font-size:15px;
+	font-family:ËÎÌו,Arial;
+	line-height:25px;
+	color:#066;
+}
+textarea{
+	font-size:24px;
+	font-family:ËÎÌו,Arial;
+	line-height:25px;
+	color:#066;
+}
+a{
+	color:#0033FF;text-decoration:none;
+}
+hr{
+	height:1px;border:none;
+	border-bottom:1px dashed #abc;
+}
+div{
+	padding:15px;
+}
+span{color:#990FEC;
+}
+form{margin:0;
+}
